@@ -27,16 +27,16 @@
   
 ## 2015  
 
-«[Картография городских данных](https://www.youtube.com/watch?v=bwaI7vLeeh0)» 
+«[Картография городских данных](https://www.youtube.com/watch?v=bwaI7vLeeh0)»  
 22 ноября 2015, Конференция «Открытые гис» (Москва, MAIL.RU)
   
 [Мастер-класс «Дизайн карты мира»](https://www.youtube.com/watch?v=Bk0RTwufOp4)  
 21 ноября 2015,  Конференция «Открытые гис» (Москва)  
   
-Дополнительная лекция «[Карты и визуализация данных](https://www.youtube.com/watch?v=egaDr-AdPyE)»  
+«[Карты и визуализация данных](https://www.youtube.com/watch?v=egaDr-AdPyE)»  
 21 июня 2015, Школа дизайна Яндекса  
   
-«Карты и визуализация данных»(https://www.youtube.com/watch?v=NwadfbF2Nlw)
+«[Карты и визуализация данных](https://www.youtube.com/watch?v=NwadfbF2Nlw)»  
 23 мая 2015, Dribbble Meetup (Москва, Mail.ru)  
   
 «[Картография городских данных: примеры, инструменты, идеи](https://www.youtube.com/watch?v=ghzYmYyZHKE)»  
@@ -61,7 +61,7 @@
 1 октября 2013, Whalerider, Москва  
   
 Мини-интервью «[Информационный дизайн Яндекс.Карт](https://www.youtube.com/watch?v=cjRJNVmsa7Y)»  
-к статье «[Дизайн Яндекс.Карт как наука и увлечение](https://habrahabr.ru/company/yandex/blog/185952/)»
+к статье «[Дизайн Яндекс.Карт как наука и увлечение](https://habrahabr.ru/company/yandex/blog/185952/)»  
 9 июля 2013, Москва, Яндекс
   
 «[Про карты](https://www.youtube.com/watch?v=UOBHjIYezsw)»
