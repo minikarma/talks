@@ -2,6 +2,9 @@
 
 ## 2016
 
+«Дизайн города, основанный на данных»([слайды презентации](https://speakerdeck.com/minikarma/dizain-ghoroda-osnovannyi-na-dannykh))  
+15 октября 2016, Суздаль, Дизайн-выходные  
+
 Открытая лекция «[Картография городских данных](https://www.youtube.com/watch?v=6Eu5PFUbn2Q)».  
 17 февраля 2016, Москва, антикафе «Белый лист»  
   
@@ -19,7 +22,7 @@
 «[Картографично](https://www.youtube.com/watch?v=iw5j2a0YUj4)»  
 8 апреля 2016, Екатеринбург, DUMP 2016
   
-«[Картография городских данных](https://www.youtube.com/watch?v=L9wo9R0idp8)»  
+«[Картография городских данных](https://www.youtube.com/watch?v=L9wo9R0idp8)», ([слайды презентации](https://speakerdeck.com/minikarma/kartoghrafichno))  
 5 марта 2016, Москва, Impact Hub Moscow, Open Data Day   
   
 Мастер-класс «[Интерактивная картография](https://www.youtube.com/watch?v=3rC86hP2nh0)»  
@@ -64,7 +67,7 @@
 к статье «[Дизайн Яндекс.Карт как наука и увлечение](https://habrahabr.ru/company/yandex/blog/185952/)»  
 9 июля 2013, Москва, Яндекс
   
-«[Про карты](https://www.youtube.com/watch?v=UOBHjIYezsw)»
+«[Про карты](https://www.youtube.com/watch?v=UOBHjIYezsw)»  
 15 мая 2013, Семинар в Студии Артемия Лебедева  
   
 «[Картографический дизайн Яндекса](https://www.youtube.com/watch?v=0j41o74uz44&)»  
