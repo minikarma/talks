@@ -24,22 +24,25 @@
 7 апреля 2016, Екатеринбург, Отель «Гранд Авеню»  
   
 «[Городские исследования. От хаоса данных к ценным открытиям.](https://www.youtube.com/watch?v=NXljtH2_s-0)»  
-Лекция Егора Коробейникова (Aventica) и Андрея Кармацкого (Urbica) ([слайды презентации](https://speakerdeck.com/minikarma/gorodskiie-issliedovaniia-ot-khaosa-k-tsiennym-otkrytiiam))  
+Лекция Егора Коробейникова (Aventica) и Андрея Кармацкого (Urbica) ([слайды](https://speakerdeck.com/minikarma/gorodskiie-issliedovaniia-ot-khaosa-k-tsiennym-otkrytiiam))  
 10 марта 2016, Москва, Московская Архитектурная школа. Запись лекции организована сайтом [Architime.ru](http://architime.ru/video/urban_research.htm)  
   
-«[Картография городских данных](https://www.youtube.com/watch?v=L9wo9R0idp8)», ([слайды презентации](https://speakerdeck.com/minikarma/kartoghrafichno))  
+«[Картография городских данных](https://www.youtube.com/watch?v=L9wo9R0idp8)», ([слайды](https://speakerdeck.com/minikarma/kartoghrafichno))  
 5 марта 2016, Москва, Impact Hub Moscow, Open Data Day   
   
 Открытая лекция «[Картография городских данных](https://www.youtube.com/watch?v=6Eu5PFUbn2Q)».  
 17 февраля 2016, Москва, антикафе «Белый лист»  
     
 ## 2015  
-
+  
 «[Картография городских данных](https://www.youtube.com/watch?v=bwaI7vLeeh0)»  
 22 ноября 2015, Конференция «Открытые гис» (Москва, MAIL.RU)
   
 [Мастер-класс «Дизайн карты мира»](https://www.youtube.com/watch?v=Bk0RTwufOp4)  
-21 ноября 2015,  Конференция «Открытые гис» (Москва)  
+21 ноября 2015, Москва, Конференция «Открытые гис»  
+  
+Лекция «Карты и визуализация данных» ([слайды](https://speakerdeck.com/minikarma/karty-i-vizualizatsiia-dannykh))  
+16 ноября 2015, Москва, географический факультет МГУ  
   
 «[Карты и визуализация данных](https://www.youtube.com/watch?v=egaDr-AdPyE)»  
 21 июня 2015, Школа дизайна Яндекса  
