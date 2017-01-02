@@ -15,7 +15,7 @@
 8 апреля 2016, Екатеринбург, DUMP 2016  
   
 «[Городские исследования. От хаоса данных к ценным открытиям.](https://www.youtube.com/watch?v=NXljtH2_s-0)»  
-Лекция Егора Коробейникова (Aventica) и Андрея Кармацкого (Urbica) ([слайды презентации](https://speakerdeck.com/minikarma/gorodskiie-issliedovaniia-ot-khaosa-k-tsiennym-otkrytiiam)  
+Лекция Егора Коробейникова (Aventica) и Андрея Кармацкого (Urbica) ([слайды презентации](https://speakerdeck.com/minikarma/gorodskiie-issliedovaniia-ot-khaosa-k-tsiennym-otkrytiiam))  
 10 марта 2016, Москва, Московская Архитектурная школа. Запись лекции организована сайтом [Architime.ru](http://architime.ru/video/urban_research.htm)  
   
 «[Картография городских данных](https://www.youtube.com/watch?v=L9wo9R0idp8)», ([слайды презентации](https://speakerdeck.com/minikarma/kartoghrafichno))  
