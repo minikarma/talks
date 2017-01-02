@@ -2,6 +2,9 @@
 
 ## 2016
   
+«Mapping Urban Data» ([слайды презентации](https://speakerdeck.com/minikarma/mapping-urban-data))  
+15 декабря 2016, Москва, Шухов Лаб  
+  
 «Дизайн города, основанный на данных»([слайды презентации](https://speakerdeck.com/minikarma/dizain-ghoroda-osnovannyi-na-dannykh))  
 15 октября 2016, Суздаль, Дизайн-выходные  
     
