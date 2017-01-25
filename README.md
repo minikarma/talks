@@ -23,7 +23,7 @@
 «Картография городских данных», открытая лекция при поддержке фонда «[Город.PRO](http://gorodpro.org/)»  
 7 апреля 2016, Екатеринбург, Отель «Гранд Авеню»  
   
-«[Городские исследования. От хаоса данных к ценным открытиям.](https://www.youtube.com/watch?v=NXljtH2_s-0)»  
+«[Городские исследования. От хаоса данных к ценным открытиям.](https://www.youtube.com/watch?v=1sdhGHRKVX8)»  
 Лекция Егора Коробейникова (Aventica) и Андрея Кармацкого (Urbica) ([слайды](https://speakerdeck.com/minikarma/gorodskiie-issliedovaniia-ot-khaosa-k-tsiennym-otkrytiiam))  
 10 марта 2016, Москва, Московская Архитектурная школа. Запись лекции организована сайтом [Architime.ru](http://architime.ru/video/urban_research.htm)  
   
