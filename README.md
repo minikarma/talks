@@ -1,6 +1,10 @@
 # Выступления и лекциии
 
 ## 2017  
+
+«Карты и данные» [видеозапись лекции](https://www.youtube.com/watch?v=87X6gjY8IfQ)  
+27 февраля 2017, Москва, Билайн Университет  
+  
   
 «Urban Data: Understanding Human Experience in the City» [видеозапись лекции](https://www.youtube.com/watch?v=vTwBFrKGLSQ&feature=youtu.be&list=PLNlg05dGKXv5Q0YYv2h3bS3fZeOlKhH5A)  
 31 января 2017, Москва, ШуховЛаб
