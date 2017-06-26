@@ -1,10 +1,18 @@
 # Выступления и лекциии
 
 ## 2017  
-
+  
+«Дизайн города, основанный на данных» [видеозапись выступления](https://www.youtube.com/watch?v=ZwoZd8OQKIs)  
+30 мая 2017, Москва, Яндекс, Yet Another Conference  
+  
+«Дизайн города, основанный на данных» [видеозапись лекции](https://www.youtube.com/watch?v=eixlC8K8GIg)  
+20 мая 2017, Москва, конференция «Data&Science: Город»  
+  
+«Город и данные» [слайды презентации](https://yadi.sk/d/QzvbBIZO3EyLzW)  
+4 марта 2017, Москва, пространство «Благосфера», «День открытых данных»  
+  
 «Карты и данные» [видеозапись лекции](https://www.youtube.com/watch?v=87X6gjY8IfQ)  
 27 февраля 2017, Москва, Билайн Университет  
-  
   
 «Urban Data: Understanding Human Experience in the City» [видеозапись лекции](https://www.youtube.com/watch?v=vTwBFrKGLSQ&feature=youtu.be&list=PLNlg05dGKXv5Q0YYv2h3bS3fZeOlKhH5A)  
 31 января 2017, Москва, ШуховЛаб
