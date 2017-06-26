@@ -5,7 +5,7 @@
 «Дизайн города, основанный на данных» [видеозапись выступления](https://www.youtube.com/watch?v=ZwoZd8OQKIs)  
 30 мая 2017, Москва, Яндекс, Yet Another Conference  
   
-«Дизайн города, основанный на данных» [видеозапись лекции](https://www.youtube.com/watch?v=eixlC8K8GIg)  
+«Дизайн города, основанный на данных» [видеозапись выступления](https://youtu.be/eixlC8K8GIg?t=41m24s)  
 20 мая 2017, Москва, конференция «Data&Science: Город»  
   
 «Город и данные» [слайды презентации](https://yadi.sk/d/QzvbBIZO3EyLzW)  
